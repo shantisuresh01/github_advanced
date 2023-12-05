@@ -11,9 +11,10 @@ git add .
 git commit -m "add a new feature"
 git push origin development
 
-# We want another developer to review this change.  Peer revire.
-# Maybe see something that I missed.  Junior developer can learn from this experience when they see the new feature and
-how it was coded - a teaching lesson
+# We want another developer to review this change.  Peer review.
+# Maybe they would see something that I missed.
+# Junior developer can learn from this experience when they see the new feature and
+# how it was coded - a teaching lesson
 
 # Create a pull request
 # Merge it locally and test first.
