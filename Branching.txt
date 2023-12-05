@@ -8,7 +8,7 @@ git checkout -b development
 Do a lot of work.  When happy merge with master branch and then create a new version.  Master branch i
 s for code that is stable and users are using.
 
-git statua
+git status
 git add .
 git commit -m "add a new feature"
 git push origin development
