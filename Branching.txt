@@ -1,5 +1,7 @@
 Commandline:
 
+# Helpful Git Hints
+
 # Create a new branch - a clone of the master branch
 git checkout -b development
 
